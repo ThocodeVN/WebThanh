@@ -54,10 +54,15 @@
     </header>
     <main>
         <p><strong>Bài tập:</strong> BT1_EmailList</p>
-        <p><a href="https://murachweb.onrender.com/MurachWeb/" target="_blank">Truy cập bài tập 1</a></p>
+        <p><a href="https://murachweb.onrender.com/MurachWeb/" target="_blank">BT1_EmailList</a></p>
 
         <p><strong>Bài tập:</strong> BT3_EmailServlet</p>
         <p><a href="https://bt3-emailservlet.onrender.com/BT3_EmailList_Servlet/" target="_blank">BT3_EmailServlet</a></p>
+        
+        <p><strong>Bài tập:</strong> BT5_Session</p>
+        <p><a href="https://bt5-session-10.onrender.com/BT5_Session/CDServlet" target="_blank">BT5_Session</a></p>
+        
+        
     </main>
     <footer>
         &copy; 2024 Nguyễn Duy Thanh. All Rights Reserved.
